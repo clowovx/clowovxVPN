@@ -1,6 +1,7 @@
 #profile-title: clowovxVPN
 #profile-web-page-url: https://t.me/clowovxVPN
 #profile-update-interval: 12
+#subscription-userinfo: upload=0; download=0; total=9999999999999999999; expire=2429827200
 
 
 vless://19135f1a-4b6b-07d0-9562-aa3050e4ea4d@lk-cdn.deploy-assure.ru:443?flow=&type=ws&host=lk-cdn.deploy-assure.ru&path=//&security=tls&sni=lk-cdn.deploy-assure.ru&alpn=http/1.1,h2&fp=chrome&allowInsecure=0#%F0%9F%87%B7%F0%9F%87%BA%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
